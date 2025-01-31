@@ -52,7 +52,7 @@ Program son sürümünü aşağıdaki linkten indirebilirsiniz:
 
 ## Gereksinimler
 
-- Windows 10/11
+- Windows Vista/7/8/8.1/10/11
 - 100MB boş disk alanı
 - 1GB RAM (önerilen)
 
