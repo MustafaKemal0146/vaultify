@@ -1,0 +1,68 @@
+Vaultify Yazılım Lisans Sözleşmesi
+
+Copyright (c) 2024 Vaultify. Tüm hakları saklıdır.
+
+LÜTFEN BU LİSANS SÖZLEŞMESİNİ DİKKATLİCE OKUYUNUZ. BU YAZILIMI KULLANARAK AŞAĞIDAKİ TÜM ŞARTLARI KABUL ETMİŞ SAYILIRSINIZ.
+
+Bu yazılım ve ilgili dokümantasyon dosyaları ("Yazılım") aşağıdaki koşullar altında kullanıma sunulmuştur:
+
+1. KULLANIM HAKKI
+   - Bu yazılım şu an beta test aşamasında olup, ücretsiz olarak sunulmaktadır
+   - İleriki sürümlerde ücretli bir yazılıma dönüşebilir
+   - Mevcut ücretsiz sürüm kullanıcıları, yazılımın ücretli sürümüne geçiş yapana kadar mevcut sürümü kullanmaya devam edebilirler
+   - Vaultify, herhangi bir zamanda ve herhangi bir sebeple bu kullanım hakkını değiştirme veya iptal etme hakkını saklı tutar
+
+2. KISITLAMALAR
+   KULLANICI, AŞAĞIDAKİ KISITLAMALARI İHLAL ETMESİ DURUMUNDA, MUSTAFA KEMAL ÇINGIL'A (BUNDAN SONRA "GELİŞTİRİCİ" OLARAK ANILACAKTIR) 
+   PROGRAMLAMA SÜRECİNDE HARCANAN EMEK KARŞILIĞI OLARAK 1.000.000 € (BİR MİLYON EURO) TAZMİNATI PEŞİNEN ÖDEMEYİ KABUL VE TAAHHÜT EDER:
+
+   - Yazılımın kaynak kodu kapalıdır ve tersine mühendislik yapılamaz
+   - Yazılım kopyalanamaz, değiştirilemez, alt lisans verilemez veya dağıtılamaz
+   - Yazılım ticari amaçla kullanılamaz (şu anki beta sürümü için)
+   - Yazılım üzerindeki telif hakkı bildirimleri kaldırılamaz
+   - Yazılımın kötüye kullanımı veya yasadışı amaçlarla kullanımı kesinlikle yasaktır
+   - Yazılımın kaynak kodunun tamamının veya bir kısmının izinsiz elde edilmesi, kullanılması veya paylaşılması yasaktır
+   - Yazılım üzerinde herhangi bir şekilde tersine mühendislik, kaynak koda dönüştürme, şifre çözme veya benzeri işlemler yapılamaz
+
+   YUKARIDA BELİRTİLEN KISITLAMALARIN HERHANGİ BİRİNİN İHLALİ, AYRI AYRI 1.000.000 € (BİR MİLYON EURO) TAZMİNAT YÜKÜMLÜLÜĞÜ DOĞURUR. 
+   BU TAZMİNAT, DİĞER HUKUKİ VE CEZAİ YAPTIRIMLARA EK OLARAK UYGULANABİLİR.
+
+   KULLANICI, BU MADDEDEKİ YÜKÜMLÜLÜKLER KONUSUNDA AÇIKÇA BİLGİLENDİRİLDİĞİNİ VE ŞARTLARI KABUL ETTİĞİNİ BEYAN EDER.
+
+3. SORUMLULUK REDDİ
+   - Yazılım "olduğu gibi" sağlanmaktadır
+   - Yazılımın kullanımından doğabilecek riskler kullanıcıya aittir
+   - Veri kaybı veya hasarından yazılım geliştiricileri sorumlu tutulamaz
+   - Vaultify, yazılımın kesintisiz veya hatasız çalışacağını garanti etmez
+   - Kullanıcı, yazılımı kendi risk ve sorumluluğu altında kullanır
+
+4. GÜNCELLEMELER VE DEĞİŞİKLİKLER
+   - Vaultify, bu lisans sözleşmesini herhangi bir zamanda değiştirme hakkını saklı tutar
+   - Yazılımın gelecek sürümleri farklı lisans koşullarına tabi olabilir
+   - Kullanıcılar, yeni sürümlere geçiş yapmadan önce yeni lisans koşullarını kabul etmelidir
+   - Lisans değişiklikleri, değişiklik tarihinden itibaren geçerli olacaktır
+   - Kullanıcılar, güncel lisans koşullarını takip etmekle yükümlüdür
+
+5. FESİH
+   - Bu lisans, koşulların ihlali durumunda otomatik olarak feshedilir
+   - Fesih durumunda yazılımın tüm kopyaları silinmelidir
+   - Vaultify, herhangi bir ihlal durumunda yasal işlem başlatma hakkını saklı tutar
+
+6. GENEL HÜKÜMLER
+   - Bu sözleşme Türkiye Cumhuriyeti kanunlarına tabidir
+   - Bu sözleşmeden doğabilecek uyuşmazlıklarda Türkiye Cumhuriyeti mahkemeleri yetkilidir
+   - Bu sözleşmenin herhangi bir hükmünün geçersiz sayılması, diğer hükümlerin geçerliliğini etkilemez
+   - Bu sözleşme, taraflar arasındaki tam anlaşmayı temsil eder ve önceki tüm sözlü veya yazılı anlaşmaların yerini alır
+   - Kullanıcı, özellikle 2. maddede belirtilen tazminat yükümlülüklerini açıkça kabul ettiğini ve bu yükümlülüklerin 
+     makul ve haklı olduğunu beyan eder
+   - Bu sözleşmede belirtilen tazminat tutarları, yazılımın geliştirilmesinde harcanan emek, zaman ve uzmanlık 
+     göz önünde bulundurularak belirlenmiştir
+
+7. İLETİŞİM
+   - Lisans ile ilgili sorularınız için [e-posta adresi] adresinden iletişime geçebilirsiniz
+   - Teknik destek ve diğer konular için resmi github sayfasını ziyaret ediniz
+
+Bu yazılımı kullanarak yukarıdaki tüm koşulları kabul etmiş sayılırsınız. Bu koşulları kabul etmiyorsanız, yazılımı kullanmayınız ve varsa tüm kopyalarını siliniz.
+
+Son Güncelleme: [Tarih]
+Versiyon: 1.2.0 
