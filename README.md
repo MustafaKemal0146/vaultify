@@ -1,6 +1,18 @@
-# Vaultify
+# Vaultify v1.2.0
 
 Modern ve güvenli dosya şifreleme uygulaması.
+
+### Ana Sayfa
+![Vaultify Ana Sayfa](https://mustafakemalcingil.site/Programlar/Vaultify/anasayfa.jpg)
+
+### Kayıt Sayfası
+![Vaultify Kayıt Ekranı](https://mustafakemalcingil.site/Programlar/Vaultify/register.jpg)
+
+## İndirme
+
+Program son sürümünü aşağıdaki linkten indirebilirsiniz:
+
+[Vaultify v1.2.0 İndir](https://mustafakemalcingil.site/Programlar/Vaultify/vaultify_v1.2.0.exe)
 
 ## Özellikler (v1.2.0)
 
@@ -34,7 +46,7 @@ Modern ve güvenli dosya şifreleme uygulaması.
 
 ## Kurulum
 
-1. Releases sayfasından son sürümü indirin
+1. İndirme linkinden son sürümü indirin
 2. İndirilen exe dosyasını çalıştırın
 3. İlk kurulum adımlarını takip edin
 
@@ -42,7 +54,7 @@ Modern ve güvenli dosya şifreleme uygulaması.
 
 - Windows 10/11
 - 100MB boş disk alanı
-- 4GB RAM (önerilen)
+- 1GB RAM (önerilen)
 
 ## Güvenlik
 
@@ -52,6 +64,7 @@ Modern ve güvenli dosya şifreleme uygulaması.
 - Güvenli rastgele sayı üretimi
 - Şifre gücü kontrolü
 - Oturum güvenliği
+- Güvenli depolama sistemi
 
 ## Lisans
 
@@ -61,4 +74,4 @@ Vaultify şu an beta test aşamasında olup, ücretsiz olarak sunulmaktadır. Ya
 
 ## İletişim
 
-Hata raporları ve öneriler için Issues sayfasını kullanabilirsiniz. 
+Sorularınız ve geri bildirimleriniz için [issues](https://github.com/mustafakemal0146/vaultify/issues) bölümünü kullanabilirsiniz. 
