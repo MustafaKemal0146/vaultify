@@ -14,7 +14,7 @@ Modern ve güvenli dosya şifreleme uygulaması.
 
 Program son sürümünü aşağıdaki linkten indirebilirsiniz:
 
-[Vaultify v1.3.0 İndir](https://mustafakemalcingil.site/Programlar/Vaultify/vaultify_v1.3.0.exe)
+[Vaultify v1.3.0 İndir](https://mustafakemalcingil.site/Programlar/Vaultify/Vaultify_v1.3.0.exe)
 
 ## Özellikler (v1.2.0)
 
