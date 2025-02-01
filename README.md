@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://mustafakemalcingil.site/Programlar/Vaultify/logo.jpg" alt="Vaultify Logo" width="200"/>
+</p>
+
 # Vaultify v1.3.0
 
 Modern ve güvenli dosya şifreleme uygulaması.
@@ -106,4 +110,36 @@ Vaultify şu an beta test aşamasında olup, ücretsiz olarak sunulmaktadır. Ya
 
 ## İletişim
 
-Sorularınız ve geri bildirimleriniz için [issues](https://github.com/mustafakemal0146/vaultify/issues) bölümünü kullanabilirsiniz. 
+Sorularınız ve geri bildirimleriniz için [issues](https://github.com/mustafakemal0146/vaultify/issues) bölümünü kullanabilirsiniz.
+
+## Özel Not - Bitlis Eren Üniversitesi Bilgi Güvenliği ve Kriptoloji Atölyesi
+
+Sevgili Atölye Üyeleri,
+
+Bu proje, ara tatilde geliştirdiğimiz modern dosya şifreleme uygulamasıdır. Vaultify'ın geliştirilme sürecini ve teknik detaylarını üniversite açıldığında atölye derslerimizde detaylıca inceleyeceğiz. 
+
+### Atölye Planı:
+1. Kriptografik algoritmaların uygulamadaki kullanımı
+   - AES-256 şifreleme implementasyonu
+   - ECDSA dijital imzalama süreci
+   - PBKDF2 ile güvenli anahtar türetme
+
+2. Modern UI/UX tasarım prensipleri
+   - CustomTkinter ile modern arayüz geliştirme
+   - Kullanıcı deneyimi optimizasyonları
+
+3. Güvenlik önlemleri
+   - Brute force koruması
+   - Şifre güvenliği analizi
+   - Kurtarma sistemi tasarımı
+
+4. Proje yönetimi ve geliştirme süreci
+   - Versiyon kontrolü (Git)
+   - Güvenli kod yazma prensipleri
+   - Test ve hata ayıklama
+
+Bu süreçte öğrendiklerimizi ve deneyimlerimizi paylaşarak, siber güvenlik ve kriptoloji alanında pratik bilgiler edinmeyi hedefliyoruz.
+
+İyi çalışmalar!
+*Mustafa Kemal Çıngıl*
+*Bilgi Güvenliği ve Kriptoloji Atölyesi Başkanı* 
