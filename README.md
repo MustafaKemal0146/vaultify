@@ -48,6 +48,11 @@ Program son sürümünü aşağıdaki linkten indirebilirsiniz:
   - 3 başarısız giriş sonrası kurtarma anahtarı zorunluluğu
   - Otomatik hesap kilitleme sistemi
   - Güvenli anahtar yenileme
+- Gelişmiş güvenlik önlemleri
+  - Brute force saldırılarına karşı koruma
+    - Başarısız giriş denemesi sınırlaması
+    - Otomatik hesap kilitleme süresi
+  - Şüpheli aktivite algılama ve raporlama
 
 ## Gelecek Sürüm Planları
 
