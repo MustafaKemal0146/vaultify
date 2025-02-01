@@ -1,4 +1,4 @@
-# Vaultify v1.2.0
+# Vaultify v1.3.0
 
 Modern ve güvenli dosya şifreleme uygulaması.
 
@@ -6,13 +6,15 @@ Modern ve güvenli dosya şifreleme uygulaması.
 ![Vaultify Ana Sayfa](https://mustafakemalcingil.site/Programlar/Vaultify/anasayfa.jpg)
 
 ### Kayıt Sayfası
-![Vaultify Kayıt Ekranı](https://mustafakemalcingil.site/Programlar/Vaultify/register.jpg)
+| Eski Tasarım | Yeni Tasarım |
+|:------------:|:------------:|
+| ![Eski Kayıt Ekranı](https://mustafakemalcingil.site/Programlar/Vaultify/register.jpg) | ![Yeni Kayıt Ekranı](https://mustafakemalcingil.site/Programlar/Vaultify/kayıt.jpg) |
 
 ## İndirme
 
 Program son sürümünü aşağıdaki linkten indirebilirsiniz:
 
-[Vaultify v1.2.0 İndir](https://mustafakemalcingil.site/Programlar/Vaultify/vaultify_v1.2.0.exe)
+[Vaultify v1.3.0 İndir](https://mustafakemalcingil.site/Programlar/Vaultify/vaultify_v1.3.0.exe)
 
 ## Özellikler (v1.2.0)
 
@@ -26,11 +28,28 @@ Program son sürümünü aşağıdaki linkten indirebilirsiniz:
 - Koyu/Açık tema desteği
 - Güvenli şifre yönetimi
 - Yedek anahtar sistemi
-- Güvenlik soruları ile hesap kurtarma
 - Oturum kilitleme sistemi
 
-## Gelecek Özellikler (v1.3.0)
+## Özellikler (v1.3.0)
+- Geliştirilmiş şifre güvenliği göstergesi
+- Daha modern arayüz güncellemeleri
+- Gelişmiş depolama konumu yönetimi
+- Gelişmiş dosya analizi
+- Toplu şifreleme/çözme işlemleri
+- Sürükle-bırak desteği
+- Gelişmiş arama filtreleri
+- Dosya önizleme özelliği
+- Şifreleme hızı optimizasyonları
+- Gelişmiş raporlama sistemi
+- Geliştirilmiş kurtarma anahtarı sistemi
+  - AES-256 ile şifrelenmiş kurtarma anahtarı
+  - 3 başarısız giriş sonrası kurtarma anahtarı zorunluluğu
+  - Otomatik hesap kilitleme sistemi
+  - Güvenli anahtar yenileme
 
+## Gelecek Sürüm Planları
+
+### Dil ve Yerelleştirme (v1.4.0)
 - Çoklu dil desteği (6 dil)
   - Türkçe
   - İngilizce
@@ -38,11 +57,17 @@ Program son sürümünü aşağıdaki linkten indirebilirsiniz:
   - İspanyolca
   - Rusça
   - Almanca
-- Sistem diline otomatik uyum
 - Anlık dil değişimi
-- Geliştirilmiş şifre güvenliği göstergesi
-- Daha modern arayüz güncellemeleri
-- Gelişmiş depolama konumu yönetimi
+
+### Kullanıcı Deneyimi İyileştirmeleri (v1.4.0)
+- Otomatik güncelleme sistemi
+- Yeni şifreleme algoritmaları
+- Gelişmiş dosya kategorilendirme
+- Gelişmiş yedekleme sistemi
+- Bulut depolama entegrasyonu
+- Gelişmiş güvenlik analizi
+- Çoklu cihaz senkronizasyonu
+- Gelişmiş istatistik paneli
 
 ## Kurulum
 
