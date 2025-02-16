@@ -5,7 +5,7 @@
 # Vaultify v1.3.0
 
 Modern ve güvenli dosya şifreleme uygulaması.
-
+[![Hits](https://hits.sh/github.com/MustafaKemal0146/vaultify.svg?style=for-the-badge&color=0089e9)](https://hits.sh/github.com/MustafaKemal0146/vaultify/)
 ### Ana Sayfa
 ![Vaultify Ana Sayfa](https://mustafakemalcingil.site/Programlar/Vaultify/anasayfa.jpg)
 
